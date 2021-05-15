@@ -1,0 +1,33 @@
+body
+{
+    background: url('./wp8121945.jpg');
+    background-size: cover; 
+}
+.main
+{
+    margin-top: 100px;
+    margin-left: 180px;
+}
+.options{
+    width: 100px;
+    height: 30px;
+    border: solid;
+    box-shadow: 20px;
+    margin-right: 23%;
+    border-radius: 10%;
+}
+#rock
+{
+    
+    border-color: fuchsia;
+}
+#paper
+{
+    
+    border-color:gold;
+}
+#scissors
+{
+    margin-left:33px;
+    border-color:rgb(28, 137, 187)
+}
